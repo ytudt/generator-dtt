@@ -1,6 +1,6 @@
 {
   "name": "generator-dtt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this is a generator for dtt",
   "files": [
     "app"
